@@ -12,5 +12,5 @@ python -u sample_main.py --type_experiment baselines --dataset amazon_baby_alexn
 
 That being said, please refer to the official GitHub [page](https://github.com/sisinflab/elliot) and the [documentation](https://elliot.readthedocs.io/en/latest/) to run Elliot and understand how it works.
 
-**\[DISCLAIMER]: Please, notice that this repository will be deleted as soon as these scripts are merged into the main branch of Elliot.**
+**\[DISCLAIMER]: This repository will be deleted as soon as these scripts are merged into the main branch of Elliot.**
 
