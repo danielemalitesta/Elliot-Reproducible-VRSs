@@ -7,3 +7,4 @@ parser.add_argument('--dataset', type=str, default='amazon_baby_alexnet')
 args = parser.parse_args()
 
 run_experiment("config_files/{0}_{1}.yml".format(args.type_experiment, args.dataset))
+
